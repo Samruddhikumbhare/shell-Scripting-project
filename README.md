@@ -34,16 +34,3 @@ Save this script as `simple_user_backup.sh`.
 ```bash
 chmod +x simple_user_backup.sh
 
-## Run the scipt
-./simple_user_backup.sh
-
-🧪 Sample Outputs
-Choose an option:
-1. Add User
-2. Delete User
-3. List Users
-4. Backup Folder
-5. Exit
-Enter your choice (1-5): 1
-Enter username to add: demo123
-User 'demo123' added.
